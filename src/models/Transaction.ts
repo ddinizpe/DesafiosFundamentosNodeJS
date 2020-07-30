@@ -16,5 +16,5 @@ class Transaction {
     this.type = type;
   }
 }
-
+ 
 export default Transaction;
